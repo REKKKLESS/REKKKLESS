@@ -57,8 +57,8 @@
                                                                                                                              
 <table>
 <tr>
-<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingandhi9898&theme=radical&show_icons=true&locale=en" alt="kevingandhi9898"/></p></td>
-<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevingandhi9898&theme=radical" alt="kevingandhi9898" /></td>
+<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitKumar9898&theme=radical&show_icons=true&locale=en" alt="RohitKumar9898"/></p></td>
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitKumarf9898&theme=radical" alt="RohitKumar9898" /></td>
 
 </tr>
 <tr>
