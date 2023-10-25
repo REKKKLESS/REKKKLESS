@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">CSE Student , VIT Chennai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingandhi9898&label=Profile%20views&color=0e75b6&style=flat" alt="kevingandhi9898" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingandhi9898&label=Profile%20views&color=0e75b6&style=flat" alt="RohitKumar9898" /> </p>
 
 - 🌱 I’m currently learning *Machine Learning and Data Analysis*
 
 - 💬 Ask me about *Html, CSS, React.js, Node.js, MongoDB, Express.js*
 
-- 📫 How to reach me *kevingandhi9898@gmail.com*
+- 📫 How to reach me *kumar.rohit2020b@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
