@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Kevin's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Rohit's+GitHub+Profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">CSE Student , VIT Chennai</h3>
 
