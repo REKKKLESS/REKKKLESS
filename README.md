@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Kevin's+GitHub+Profile!)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Kevin Gandhi</h1>
+<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">CSE Student , VIT Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingandhi9898&label=Profile%20views&color=0e75b6&style=flat" alt="kevingandhi9898" /> </p>
